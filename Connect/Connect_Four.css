@@ -1,0 +1,14 @@
+ body{
+  text-align: center;
+}
+table{
+  margin: auto;
+  border-spacing: 5px;
+}
+td{
+  background-color: #BDBDBD;
+  border: 3px solid #BDBDBD;
+  border-radius: 50%;
+  min-width: 80px;
+  height: 80px;
+}
